@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Ewert&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ewert&display=swap');
 body {
     background-image: url(/ATIVIDADE/porsche-macan-2024.jpg);
     background-repeat: no-repeat;
@@ -6,16 +8,16 @@ body {
 }
 
 
-@import url('https://fonts.googleapis.com/css2?family=Ewert&display=swap');
 
 h1 {
     font-family: "Ewert", serif;
     font-weight: 400;
     font-style: normal;
-
+    font-size: larger;
+    text-shadow: 5px 5px orange;
+    line-height: 200%;
 }
 
-@import url('https://fonts.googleapis.com/css2?family=Ewert&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
 
 p {
     font-family: "Playfair Display", serif;
@@ -23,4 +25,10 @@ p {
     font-weight: 400;
     font-style: normal;
 
+}
+.paragrafo {
+    text-align: justify;
+}
+.subtitulo{
+    color: yellow;
 }
