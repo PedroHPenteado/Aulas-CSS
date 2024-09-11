@@ -1,0 +1,19 @@
+* {
+    background-color: rgb(3, 57, 98);
+}
+
+h1 {
+    text-align: center;
+    color: rgb(140, 213, 4);
+    line-height: 5;
+    text-shadow: 5px 5px 4px;
+}
+
+
+h2 {
+    color: azure;
+    text-shadow: 5px 5px 4px;
+}
+h3 {
+    color: rgb(255, 255, 255);
+}
