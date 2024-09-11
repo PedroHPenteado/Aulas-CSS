@@ -1,0 +1,26 @@
+body {
+    background-image: url(/ATIVIDADE/porsche-macan-2024.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Ewert&display=swap');
+
+h1 {
+    font-family: "Ewert", serif;
+    font-weight: 400;
+    font-style: normal;
+
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Ewert&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+p {
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+
+}
