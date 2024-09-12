@@ -1,0 +1,28 @@
+.titulo {
+    color: yellowgreen;
+}
+
+.italico {
+    font-style: italic;
+}
+
+p {
+    color: darkgreen;
+}
+
+.sombra {
+    filter: drop-shadow(5px 5px 5px black);
+}
+
+#ola {
+    color: brown;
+}
+
+#alo {
+    color: yellow;
+}
+
+#eai {
+    color: burlywood;
+}
+body {background-color: beige;}
